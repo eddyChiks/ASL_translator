@@ -1,2 +1,2 @@
 # ASL_translator
- Translator built using trained neural net
+ Web based translator with integrated trained neuarl net written in Django
