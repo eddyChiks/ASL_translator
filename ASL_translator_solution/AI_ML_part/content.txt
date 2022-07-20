@@ -1,0 +1,3 @@
+1. dataset: initial dataset
+2. create_new_dataset: script in jupyter that takes initial dataset as input and produces dataset that contains images of extracted hands
+3. neural_net: definition, training, testing and saving of neural net

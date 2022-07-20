@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ASL_translator", "ASL_translator\ASL_translator.pyproj", "{5607C403-3DB8-4C74-8F5E-3D85B14F3E9B}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ASL_translator_web_app", "ASL_translator_web_app\ASL_translator.pyproj", "{5607C403-3DB8-4C74-8F5E-3D85B14F3E9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
